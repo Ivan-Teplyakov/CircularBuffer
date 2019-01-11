@@ -1,6 +1,6 @@
 '''
 Created on 9 January. 2019 y.
-This module contains the ring buffer realization 
+This module contains some unit tests of ring buffer  
 
 @author: Ivan
 '''
